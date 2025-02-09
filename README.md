@@ -4,7 +4,7 @@
 El objetivo de este proyecto es realizar un análisis detallado de las ventas con el fin de identificar patrones clave en el comportamiento de los clientes, productos, categorías y tendencias temporales. A través de este análisis, se busca generar recomendaciones prácticas para mejorar las estrategias de marketing, optimizar las ventas y aumentar la satisfacción del cliente. El análisis se centra en datos de ventas, métodos de pago y dispositivos utilizados, lo que permite una visión integral de las operaciones comerciales.
 
 ## Herramientas Utilizadas
-- **Python**: Para el análisis de datos y la creación de gráficos interactivos.
+- **Python**: Para el análisis de datos y la creación de gráficos.
 - **Librerías de Python**: Se utilizó **Pandas** para el manejo de datos, **Matplotlib** y **Seaborn** para la visualización de gráficos y tendencias.
 
 ## Estructura del Proyecto
