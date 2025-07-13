@@ -1,93 +1,92 @@
+# Sales Strategy and Data Analysis
 
-# Estrategia de Ventas y Análisis de Datos
+## 🎯 General Objective
+**Increase category-level and overall sales**, prioritizing those with the highest revenue:
 
-## 🎯 Objetivo General
-**Aumentar las ventas por categoría y en general**, priorizando las de mayor facturación:
-
-| Categoría              | Ventas         |
-|------------------------|----------------|
-| Fashion               | $4,345,914     |
-| Home & Furniture      | $1,975,831     |
-| Auto & Accessories    | $1,095,681     |
-| Electronics           | $394,738       |
-
----
-
-## ✅ Estrategia General
-
-### 1. **Mejorar la experiencia del cliente**
-Análisis de tipo de cliente:
-
-| Tipo de Cliente | Cantidad |
-|-----------------|----------|
-| First SignUp    | 384      |
-| Guest           | 4,953    |
-| Member          | 122,930  |
-| New             | 90       |
-
-Los **“Members”** son quienes más compran, lo que sugiere una buena experiencia. Para **fidelizar más**:
-
-- Ofrecer **recompensas semanales o mensuales** a los miembros con mayor número de compras.
-- Dar **beneficios exclusivos** a los miembros actuales para incentivar a otros tipos de usuarios a registrarse.
-
-> 💡 Mostrar los beneficios de ser miembro aumentará el interés de los nuevos y de los clientes que compran como invitados.
+| Category            | Sales           |
+|---------------------|-----------------|
+| Fashion             | $4,345,914      |
+| Home & Furniture    | $1,975,831      |
+| Auto & Accessories  | $1,095,681      |
+| Electronics         | $394,738        |
 
 ---
 
-### 2. **Segmentación por género**
+## ✅ General Strategy
 
-| Género  | Cantidad de Compras |
-|---------|---------------------|
-| Hombre  | 69,303              |
-| Mujer   | 59,054              |
+### 1. **Improve the Customer Experience**
+Customer type analysis:
 
-**Recomendación:**
-- Analizar la experiencia de compra femenina
-- Ofrecer promociones o campañas dirigidas exclusivamente a mujeres
+| Customer Type | Count    |
+|---------------|----------|
+| First SignUp  | 384      |
+| Guest         | 4,953    |
+| Member        | 122,930  |
+| New           | 90       |
+
+**“Members”** are the top buyers, suggesting a good user experience. To **increase loyalty**:
+
+- Offer **weekly or monthly rewards** to members with the highest purchase volume.
+- Provide **exclusive benefits** to current members to encourage other user types to register.
+
+> 💡 Highlighting the advantages of membership will increase interest among new and guest users.
 
 ---
 
-### 3. **Métodos de pago**
+### 2. **Gender Segmentation**
 
-| Método de Pago     | Cantidad |
+| Gender | Purchase Count     |
+|--------|--------------------|
+| Male   | 69,303             |
+| Female | 59,054             |
+
+**Recommendation:**
+- Analyze the female shopping experience
+- Offer promotions or campaigns targeted specifically at women
+
+---
+
+### 3. **Payment Methods**
+
+| Payment Method     | Count    |
 |--------------------|----------|
-| Tarjeta de crédito | 95,376   |
+| Credit Card        | 95,376   |
 | Money Order        | 24,172   |
 | E-Wallet           | 7,009    |
-| Tarjeta de débito  | 1,796    |
+| Debit Card         | 1,796    |
 
-**Sugerencia:** Incentivar el uso de métodos alternativos.
+**Suggestion:** Encourage the use of alternative payment methods.
 
-> 🎁 “Por cada $100 gastados con E-Wallet, recibe un regalo exclusivo”
-
----
-
-### 4. **Tipo de dispositivo**
-
-| Dispositivo | Cantidad |
-|-------------|----------|
-| Web         | 119,811  |
-| Móvil       | 8,546    |
-
-**Recomendaciones:**
-- Optimizar velocidad de carga en móvil
-- Mejorar diseño UX
-- Simplificar proceso de pago en celulares
+> 🎁 “For every $100 spent using an E-Wallet, receive an exclusive gift.”
 
 ---
 
-## 📊 Análisis de Ventas
+### 4. **Device Type**
 
-### Resumen general
+| Device    | Count    |
+|-----------|----------|
+| Web       | 119,811  |
+| Mobile    | 8,546    |
 
-- **Volumen total de ventas:** $7,812,164
-- **Ticket promedio:** $152.34
+**Recommendations:**
+- Optimize mobile loading speed
+- Improve UX design
+- Simplify the mobile checkout process
 
 ---
 
-### Productos más vendidos
+## 📊 Sales Analysis
 
-| Producto        | Cantidad |
+### General Summary
+
+- **Total sales volume:** $7,812,164  
+- **Average ticket size:** $152.34
+
+---
+
+### Top-Selling Products
+
+| Product        | Quantity |
 |----------------|----------|
 | Titan Watch    | 6,254    |
 | Formal Shoes   | 6,154    |
@@ -98,9 +97,9 @@ Los **“Members”** son quienes más compran, lo que sugiere una buena experie
 
 ---
 
-### Fechas con mayores ventas
+### Highest-Selling Dates
 
-| Fecha       | Ventas  |
+| Date        | Sales   |
 |-------------|---------|
 | 2018-04-24  | 94,531  |
 | 2018-07-30  | 72,191  |
@@ -109,14 +108,15 @@ Los **“Members”** son quienes más compran, lo que sugiere una buena experie
 
 ---
 
-## 🧠 Conclusiones y Sugerencias
+## 🧠 Conclusions and Suggestions
 
-- Optimizar campañas para clientes Guest y New.
-- Fortalecer experiencia móvil.
-- Aprovechar insights de género para diseñar campañas segmentadas.
-- Incentivar métodos de pago alternativos.
-- Revisar UX móvil como prioridad.
+- Optimize campaigns targeting Guest and New customers.
+- Strengthen mobile experience.
+- Leverage gender-based insights for targeted campaigns.
+- Promote alternative payment methods.
+- Prioritize reviewing and improving the mobile UX.
 
-> 📌 Esta estrategia debe ser revisada junto al equipo de marketing para adaptarse a los objetivos, canales de comunicación y presupuesto actual.
+> 📌 This strategy should be reviewed with the marketing team to align with current goals, communication channels, and available budget.
+
 
 
