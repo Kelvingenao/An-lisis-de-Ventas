@@ -1,95 +1,96 @@
-# 📊 Resumen del Proyecto: Análisis de Ventas E-commerce
+# 📊 Project Summary: E-commerce Sales Analysis
 
-## 🎯 Objetivo del Proyecto
+## 🎯 Project Objective
 
-Este proyecto tiene como propósito analizar en profundidad los datos de ventas de una tienda e-commerce con el fin de:
+This project aims to deeply analyze the sales data of an e-commerce store in order to:
 
-- Identificar patrones en el comportamiento de los clientes.
-- Detectar los productos y categorías con mejor rendimiento.
-- Analizar las tendencias temporales de compra.
-- Evaluar los métodos de pago y dispositivos utilizados.
-- Proponer estrategias prácticas de marketing y ventas.
+- Identify patterns in customer behavior.
+- Detect the best-performing products and categories.
+- Analyze temporal purchasing trends.
+- Evaluate payment methods and devices used.
+- Propose actionable marketing and sales strategies.
 
-El análisis busca brindar una visión 360° del negocio para tomar decisiones informadas que permitan optimizar las ventas, fidelizar a los clientes y mejorar su experiencia de compra.
-
----
-
-## 🛠️ Herramientas Utilizadas
-
-- **Python**: Para el procesamiento y análisis de los datos.
-- **Librerías de Python**:
-  - `Pandas`: Para la manipulación de datos.
-  - `Matplotlib` y `Seaborn`: Para la visualización de gráficos e identificación de tendencias.
+The goal is to provide a 360° view of the business to support informed decisions that boost sales, improve customer retention, and enhance the shopping experience.
 
 ---
 
-## 🗂️ Estructura del Proyecto
+## 🛠️ Tools Used
 
-- **`codigos_python/`**: Scripts utilizados para limpieza, análisis y visualización de datos.
-- **`Grafico/`**: Contiene gráficos generados con Python que ilustran los hallazgos clave.
+- **Python**: For data processing and analysis.
+- **Python Libraries**:
+  - `Pandas`: For data manipulation.
+  - `Matplotlib` and `Seaborn`: For data visualization and trend identification.
+
+---
+
+## 🗂️ Project Structure
+
+- **`codigos_python/`**: Scripts used for data cleaning, analysis, and visualization.
+- **`Grafico/`**: Contains charts generated with Python that illustrate key findings.
 - **`Insight/`**:
-  - Reportes con los principales descubrimientos del análisis.
-  - **Incluye una estrategia de marketing** basada en los datos obtenidos para aumentar las ventas por categoría, mejorar la experiencia del cliente y potenciar las oportunidades de negocio.
+  - Reports with the main discoveries from the analysis.
+  - **Includes a marketing strategy** based on the data to increase category sales, improve customer experience, and boost business opportunities.
 
 ---
 
-## 🔍 Resumen de Hallazgos Clave
+## 🔍 Key Findings Summary
 
-### 🏆 Productos Más Vendidos
+### 🏆 Top-Selling Products
 
-- *Titan Watch*, *Formal Shoes* y *Sports Wear* lideran en unidades vendidas.
-- La categoría **Fashion** domina las ventas totales.
+- *Titan Watch*, *Formal Shoes*, and *Sports Wear* lead in units sold.
+- The **Fashion** category dominates total sales.
 
-### 💰 Categorías con Mayores Ingresos
+### 💰 Highest Revenue Categories
 
-| Categoría           | Ventas Totales   |
-|---------------------|------------------|
-| Fashion             | $4,345,914       |
-| Home & Furniture    | $1,975,831       |
-| Auto & Accessories  | $1,095,681       |
-| Electronics         | $394,738         |
+| Category            | Total Sales       |
+|---------------------|-------------------|
+| Fashion             | $4,345,914        |
+| Home & Furniture    | $1,975,831        |
+| Auto & Accessories  | $1,095,681        |
+| Electronics         | $394,738          |
 
-### 📅 Tendencias Temporales
+### 📅 Temporal Trends
 
-- Fechas pico de ventas: primavera y finales de año.
-- Estas fechas representan una gran oportunidad para campañas estacionales y promociones.
+- Peak sales periods: spring and end of year.
+- These dates present major opportunities for seasonal campaigns and promotions.
 
-### 👥 Análisis de Clientes
+### 👥 Customer Analysis
 
-- Los **miembros registrados** representan el mayor volumen de compras (122,930).
-- Clientes tipo "Guest" y "New" tienen bajo rendimiento → necesitan estrategias de conversión y fidelización.
+- **Registered members** account for the highest number of purchases (122,930).
+- “Guest” and “New” customers underperform → need targeted conversion and retention strategies.
 
-### 💳 Métodos de Pago
+### 💳 Payment Methods
 
-- Principal: **Tarjeta de crédito**.
-- El uso de **E-Wallets** es bajo, pero representa una oportunidad para promover pagos digitales con incentivos.
+- Main method: **Credit card**.
+- Use of **E-Wallets** is low but presents an opportunity to promote digital payments through incentives.
 
-### 📱 Dispositivos Usados
+### 📱 Devices Used
 
-| Dispositivo | Compras Realizadas |
-|-------------|--------------------|
-| Web         | 119,811            |
-| Móvil       | 8,546              |
+| Device   | Purchases Made |
+|----------|----------------|
+| Web      | 119,811        |
+| Mobile   | 8,546          |
 
-- La experiencia en dispositivos móviles requiere mejoras → posible fricción en velocidad o navegación.
-
----
-
-## 🧠 Recomendaciones Estratégicas
-
-1. **Fidelizar nuevos clientes y visitantes** con beneficios personalizados.
-2. **Optimizar la experiencia móvil**: navegación, tiempos de carga y facilidad de pago.
-3. **Planificar campañas estacionales** durante picos de demanda identificados.
-4. **Fortalecer categorías líderes** como *Fashion* y dar visibilidad a otras con menor rendimiento.
-5. **Incentivar el uso de métodos de pago específicos** con premios o beneficios.
+- Mobile experience needs improvement → possible friction with speed or navigation.
 
 ---
 
-## 📦 Insight + Estrategia de Marketing
+## 🧠 Strategic Recommendations
 
-Para conocer todos los hallazgos en detalle y **ver la estrategia de marketing completa basada en este análisis**, visita la carpeta [`Insight/`](./Insight). Allí se encuentran los documentos que resumen los puntos clave y una propuesta detallada para mejorar las ventas por categoría, fortalecer la fidelización y optimizar la experiencia del cliente.
+1. **Retain new and guest customers** with personalized benefits.
+2. **Optimize the mobile experience**: navigation, loading speed, and ease of payment.
+3. **Plan seasonal campaigns** during identified demand peaks.
+4. **Strengthen leading categories** like *Fashion* and give visibility to underperforming ones.
+5. **Promote specific payment methods** with rewards or benefits.
 
 ---
 
-*Este README sirve como resumen ejecutivo del proyecto. La implementación detallada, visualizaciones y propuestas estratégicas se encuentran en las carpetas correspondientes.*
+## 📦 Insight + Marketing Strategy
+
+To explore all findings in detail and **view the full marketing strategy based on this analysis**, visit the [`Insight/`](./Insight) folder. It contains documents that summarize the key points and provide a detailed proposal to increase category sales, boost customer loyalty, and optimize the shopping experience.
+
+---
+
+*This README serves as an executive summary of the project. Detailed implementation, visualizations, and strategic proposals can be found in the corresponding folders.*
+
 
